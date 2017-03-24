@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+title: Bird Life
+img: cabin.png
+img2: cabin.png
+img3: cabin.png
+alt: image-alt
+engine: Unreal Engine 4
+description: For my final year project I set out to create a networked game, Project Mars. In this team game the commander helps by placing equipment and turrets while the soliders tackle the enemy on the ground.
+
+---

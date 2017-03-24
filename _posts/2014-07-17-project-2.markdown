@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+title: Pulse
+img: Pulse.jpg
+img2: 
+img3: 
+alt: image-alt
+engine: Unreal Engine 4
+description: As a junior tech last year, I helped create Pulse, a 3rd person shooter multiplayer game. I developed numerous gameplay features such as the initial wall running mechanic, UI elements and player cooldowns.
+
+---
